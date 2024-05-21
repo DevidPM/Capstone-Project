@@ -1,4 +1,4 @@
-export const API_END_POINT = "https://capstone-project-cqz6.onrender.com/api/v1/user";
+export const API_END_POINT = "https://https://capstone-project-backend-knmk.onrender.com/api/v1/user";
 
 export const options = {
   method: "GET",
